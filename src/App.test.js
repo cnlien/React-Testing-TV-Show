@@ -1,6 +1,5 @@
 import React from 'react';
-import { render, wait } from '@testing-library/react'
-import { fetchShow as mockFetchShow} from './api/fetchShow';
+import { render } from '@testing-library/react'
 
 // COMPONENTS
 import App from './App';
